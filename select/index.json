@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "どうしてもどうしても",
+  "base_artist": "back number",
+  "createdAt": "2025-12-27T13:20:49.113327Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "どうしてもどうしても",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_どうしてもどうしても_back_number.txt"
+    }
+  ]
+}
